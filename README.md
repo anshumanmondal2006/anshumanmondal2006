@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Mondal</h1>
 <h3 align="center">Undergrad at Indian Institute of Technology, Guwahati</h3>
+<h1 align="center"> Majoring in ELectronics and Communication Engineering </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanmondal2006&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanmondal2006" /> </p>
 
