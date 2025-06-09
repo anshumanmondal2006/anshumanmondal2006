@@ -16,9 +16,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/anshuman-mondal-145314280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-mondal-145314280" height="30" width="40" /></a>
 <a href="https://kaggle.com/anshuman2006iitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshuman2006iitg" height="30" width="40" /></a>
-<a href="https://instagram.com/ambmncm_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambmncm_2006" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/ambmncm_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambmncm_2006" height="30" width="40" /></a> -->
 
-<a href="https://www.leetcode.com/amondal2006iitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amondal2006iitg" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
