@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ML, Techstacks for App development**
+- 🌱 I’m currently learning **DSA, CP, Techstacks for App development**
 
 - 👨‍💻 My personal portfolio site [https://anshumanmondal2006.github.io/Portfolio_IITG/](https://anshumanmondal2006.github.io/Portfolio_IITG/)
 
