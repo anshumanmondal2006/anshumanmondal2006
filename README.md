@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anshuman Mondal</h1>
-<h2 align="center">Undergrad at Indian Institute of Technology, Guwahati</h2>
+<h1 align="center">Hi! I'm Anshuman Mondal</h1>
+<h2 align="center">Undergrad at IITG, India</h2>
 <h3 align="center"> Majoring in Electronics and Communication Engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanmondal2006&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanmondal2006" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 📫 How to reach me **anshuman.mondal@iitg.ac.in**
+- 📫 Reach me at: **anshuman.mondal@iitg.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
