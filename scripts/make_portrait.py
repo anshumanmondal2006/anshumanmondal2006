@@ -29,4 +29,4 @@ def image_to_ascii_svg(image_path, output_svg_path, width=80):
         f.write('\n'.join(svg_lines))
 
 if __name__ == "__main__":
-    image_to_ascii_svg('scripts/headshot.jpg', 'ascii.svg')
+    image_to_ascii_svg('scripts/headshot.jpeg', 'ascii.svg')
