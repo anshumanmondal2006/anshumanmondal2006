@@ -8,7 +8,21 @@
 - 🌱 I’m currently learning **ML**
 
 - 📫 Reach me at: **anshuman.mondal@iitg.ac.in**
+<p align="center">
+  <img src="./ascii.svg" alt="Anshuman Mondal Portrait" width="600" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anshumanmondal2006&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:anshuman.mondal@iitg.ac.in">email</a> · 
+  <a href="https://linkedin.com/in/anshu2k6">linkedin</a> · 
+  <a href="https://github.com/anshumanmondal2006">github</a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anshuman-mondal-145314280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-mondal-145314280" height="30" width="40" /></a>
