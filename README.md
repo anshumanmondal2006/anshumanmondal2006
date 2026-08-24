@@ -8,13 +8,14 @@
   </a>
 </p> -->
 <!-- GitHub Stats Section -->
+<!-- Sleek Animated Visual Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumanmondal2006&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&border_radius=10" alt="Anshuman's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmondal2006&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=anshumanmondal2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=anshumanmondal2006&layout=compact&theme=radical&border_radius=8&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanmondal2006&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanmondal2006&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
