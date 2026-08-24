@@ -2,11 +2,11 @@
   <img src="./ascii.svg" alt="Anshuman Mondal Portrait" width="600" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-stats-extended.vercel.app/api?username=anshumanmondal2006&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
-</p> 
+</p>  -->
 <!-- GitHub Stats Section -->
 <!-- Sleek Animated Visual Stats -->
 
@@ -19,7 +19,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
   <a href="mailto:anshuman.mondal@iitg.ac.in">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center"
+         src="https://cdn.simpleicons.org/gmail/EA4335"
+         alt="Email"
+         height="30"
+         width="40" />
   </a>
 </p>
 
